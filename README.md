@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me 
 -     linkedin -www.linkedin.com/in/shubhasharma0208
-  ![Shubha's github stats](https://github-readme-stats.vercel.app/api?username=shubha028)
+  ![Shubha's github stats](https://github-readme-stats.vercel.app/api?username=shubha028&show_icons=true&theme=radical)
+)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha028)](https://github.com/shubha028/github-readme-stats)
 <!---
