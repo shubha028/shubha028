@@ -8,7 +8,7 @@
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubha028)](https://github.com/shubha028/github-readme-stats)
-//  ![](https://komarev.com/ghpvc/?username=shubha028&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=shubha028&style=flat-square)--->
 
 <!---
 shubha028/shubha028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
