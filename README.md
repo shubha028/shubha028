@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubha Sharma
-- 👀 I’m final year student graduating in July 2023
+- 👀 I’m Software Engineer with 1+ year of experience, graduated in July 2023
 - 🌱 I’m currently learning data structures and algorithms.
-- 💞️ I’m looking for SDE roles.
+- 💞️ I’m open for SDE roles.
 - 📫 How to reach me: www.linkedin.com/in/shubhasharma0208
 -     
   ![Shubha's github stats](https://github-readme-stats.vercel.app/api?username=shubha028&show_icons=true&theme=radical)
