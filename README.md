@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=shubha028&style=flat-square)
+
 - 👋 Hi, I’m Shubha Sharma
 - 👀 I’m Software Engineer with 1+ year of experience, graduated in July 2023
 - 🌱 I’m currently learning data structures and algorithms.
